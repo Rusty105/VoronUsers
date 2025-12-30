@@ -2012,6 +2012,17 @@
         "last_changed": "2024-01-08T16:38:25+00:00"
     },
     {
+        "path": "Sjack1209/Fridge_Door_Light_Switch",
+        "title": "Voron Fridge Door Light Switch",
+        "creator": "Sjack1209",
+        "description": "This mod allows you to maintain software control of your white LED strips while also switching them to full brightness when the door is open",
+        "printer_compatibility": [
+            "V2.4r2",
+            "VT"
+        ],
+        "last_changed": "2025-12-30T22:22:09+00:00"
+    },
+    {
         "path": "Slidr/PanzerBalls2.4",
         "title": "PanzerBalls 2.4",
         "creator": "Slidr",

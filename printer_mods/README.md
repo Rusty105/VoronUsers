@@ -366,6 +366,7 @@ Printer mods for Voron 3D printers
 | Shiftingtech | [Trident Dual Power Switch](Shiftingtech/Trident_dual_power_switch) | A replacement skirt, allowing 2 power switches | VT | 2024-01-08T16:38:25+00:00 |
 | ShinyPants | [OrangePi 3 LTS DIN Rail bracket](ShinyPants/Orange_Pi_3_LTS_DIN) | A DIN rail mount for OrangePi LTS 3 | V1.8, V2.4, VT | 2024-01-08T16:38:25+00:00 |
 | Shteeeeeve | [V0.1 LED Tophat](Shteeeeeve/V01-LED-Tophat) | V0.1 LED Tophat w/ 24V LED Lightstrip | V0.2 | 2024-01-08T16:38:25+00:00 |
+| Sjack1209 | [Voron Fridge Door Light Switch](Sjack1209/Fridge_Door_Light_Switch) | This mod allows you to maintain software control of your white LED... | V2.4r2, VT | 2025-12-30T22:22:09+00:00 |
 | Slidr | [PanzerBalls 2.4](Slidr/PanzerBalls2.4) | Squash Ball Feet for V2.4 | V2.4 | 2024-01-08T16:38:25+00:00 |
 |  | [PanzerChain 2.4](Slidr/PanzerChain2.4) | Energychain for V2.4 | V2.4 | 2024-01-08T16:38:25+00:00 |
 | slitte | [PCB_Probe](slitte/PCB_Probe) | PCB for BAT85 and pull up resistor | V2.4, VT | 2024-01-08T16:38:25+00:00 |
